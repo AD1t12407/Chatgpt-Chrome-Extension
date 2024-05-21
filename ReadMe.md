@@ -27,7 +27,7 @@ Follow these instructions to get the extension up and running on your local mach
 2. **Navigate to the project directory**:
 
    ```bash
-   cd openai-chrome-extension
+   cd chatgpt-chrome-extension
    ```
 
 3. **Add your OpenAI API key**:

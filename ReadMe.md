@@ -27,12 +27,12 @@ Follow these instructions to get the extension up and running on your local mach
 2. **Navigate to the project directory**:
 
    ```bash
-   cd chatgpt-chrome-extension
+   cd Chatgpt-chrome-extension
    ```
 
 3. **Add your OpenAI API key**:
 
-   - Open `popup.js` and replace `YOUR_OPENAI_API_KEY` with your actual OpenAI API key.
+   - Open `popup.js` and replace `OPENAI_API_KEY` with your actual OpenAI API key.
 
 4. **Load the extension in Chrome**:
    1. Open Chrome and go to `chrome://extensions/`.
